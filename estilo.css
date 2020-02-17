@@ -1,0 +1,65 @@
+h1 {
+    margin: 0px;
+    padding: 10px;
+    background-color: black;
+    color: white;
+    text-align: right;
+    
+}
+
+h2 {
+    margin-left: 20%;
+    margin-right: 20%;
+    border-bottom: white 5px solid;
+
+}
+body {
+        margin: 0 0 2em;
+        background-color: lightgray;
+        font-family: sans-serif;
+        text-align: justify;
+}
+
+hr {
+    background-color: black;
+    height: 3px;
+    width: 1200px;
+}
+
+time {
+    padding: 5px;
+    background-color: gray;
+    color: white;
+    font-size: 200%;
+    font-weight: bold;
+    letter-spacing: 5px;
+}
+
+p.date {
+    border-top: black 3px solid;
+    margin-top: 2em;
+    padding-top: 2em;
+    text-align: center;
+}
+
+p {
+    margin-left: 20%;
+    margin-right: 20%;
+  }
+
+span.rojo{
+    background-color: white;
+    color: red;
+}
+strong {
+    font-variant: small-caps;
+}
+q {
+    font-size: 150%;
+    border-bottom: red 1px dashed;
+    font-family: serif;
+}
+span.lugar {
+    color: blue;
+}
+
